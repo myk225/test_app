@@ -1,4 +1,4 @@
-import './navBar.css'
+import './navbar.css'
 
 export const TopBar = () => {
   return (
